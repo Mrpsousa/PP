@@ -1,3 +1,3 @@
 # PP
-Projeto 1 de Processamento Paralelo 
-Compilação: gcc -lcblas *.h *.c -o exe
+Projeto 1 de Processamento Paralelo  | 
+compilação: gcc cblas *.h *.c -o exe
